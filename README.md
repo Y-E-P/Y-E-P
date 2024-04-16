@@ -1,4 +1,4 @@
-### Hi there, I am Android Developer:iphone:
+### Hi there, I am Android Developer
 
 ```kotlin
 data class Engineer(
